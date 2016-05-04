@@ -1,0 +1,16 @@
+{
+  "name": "voltra-plugin-example",
+  "version": "1.0.0",
+  "description": "example plugin for voltra desktop player",
+  "main": "visualizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debounce": "^1.0.0",
+    "dom-events": "^0.1.1"
+  }
+}
+
